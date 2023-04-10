@@ -1,9 +1,6 @@
 # to_do_list
 
 A new Flutter project.
-![Screenshot_1681149030](https://user-images.githubusercontent.com/74613897/230961281-97655dd0-6ec7-4522-bc48-ea8c19a19572.png)
-
-![Screenshot_1681149016](https://user-images.githubusercontent.com/74613897/230961314-9bf76444-bd66-4969-9759-50ff44fe03dd.png)
 
 ## Getting Started
 
